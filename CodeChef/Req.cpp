@@ -2,7 +2,6 @@
 using namespace std;
 #define int long long int
 
-
 signed main(){
 
 	ios_base::sync_with_stdio(false);
@@ -14,6 +13,8 @@ signed main(){
     // for writing output to output.txt
     freopen("output.txt", "w", stdout);
 	#endif
+
+    
 
 	return 0;
 }
